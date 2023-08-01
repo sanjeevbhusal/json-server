@@ -1,4 +1,4 @@
-import jsonserver from "json-server";
+const jsonserver = require("json-server");
 
 const server = jsonserver.create();
 
